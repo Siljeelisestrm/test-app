@@ -1,6 +1,6 @@
-import React from 'react';
-import { View, Text, StyleSheet, Image } from 'react-native';
-import Card, { styles } from '@/components/Card'; // Importer Card-komponenten
+import React from 'react'
+import { View, Text, StyleSheet, Image } from 'react-native'
+import Card, { styles } from '@/components/Card'
 
 const Dashboard = () => {
   return (
